@@ -21,7 +21,7 @@ role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stony Brook UniversityUniversity
+  - name: Stony Brook University
     url: https://cs.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD student  in the CS department at Stony Brook University, where I am a member of the Network Security and Applied Cryptography Lab advised by [Prof. Radu Sion](https://zxr.io/). My research focuses on building secure systems using cryptographic protocols to solve real-world problems. My current research involves building practical plausibly deniable systems that are truly private and censorship-resilient. I am also investigating the impact of ARM Trustzone on embedded applications.
 {style="text-align: justify;"}
