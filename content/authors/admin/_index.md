@@ -1,9 +1,9 @@
 ---
 # Display name
-Sandeep Kiran Pinjala
+title: Sandeep Kiran Pinjala
 
 # Name pronunciation (optional)
-name_pronunciation: Sandeep Kiran Pinjala
+# name_pronunciation: Sandeep Kiran Pinjala
 
 # Full name (for SEO)
 first_name: Sandeep Kiran
