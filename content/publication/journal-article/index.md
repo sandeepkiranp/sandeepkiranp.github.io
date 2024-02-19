@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "Delegated Anonymous Credentials with Revocation Capability for IoT Service Chains"
 authors:
 - admin
-- Robert Ford
+- S Sree Vivek
+- Krishna M Sivalingam
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
