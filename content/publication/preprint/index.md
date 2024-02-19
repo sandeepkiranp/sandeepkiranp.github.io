@@ -2,6 +2,7 @@
 title: "DCACI: A decentralized lightweight capability based access control framework using IOTA for Internet of Things"
 authors:
 - admin
+- Krishna M. Sivalingam
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -12,6 +13,9 @@ publishDate: "2019-01-01T00:00:00Z"
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article"]
+
+
+publication: IEEE 5th World Forum on Internet of Things (WF-IoT)
 
 # Publication name and optional abbreviated publication name.
 publication: ""
