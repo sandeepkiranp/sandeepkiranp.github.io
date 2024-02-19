@@ -54,27 +54,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Senior Technical Specialist
+          company: HCL Technologies
+          #company_url: ''
+          #company_logo: org-gc
+          location: Chennai, India
+          date_start: '2013-01-01'
+          date_end: '2021-01-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Technical architect and Product Owner
+              * Design and implementation of features in Cisco's security products
+              * POC for critical customer issues
+        - title: Senior Software Engineer
+          company: Teradata
+          #company_url: ''
+          #company_logo: org-x
+          location: Hyderabad, India
+          date_start: '2006-01-01'
+          date_end: '2013-01-01'
+          description: Engineering lead for Teradata’s Gateway and Security (GTW-TDGSS) group
+        - title: Software Engineer
+          company: CMC-Ltd
+          #company_url: ''
+          #company_logo: org-x
+          location: Hyderabad, India
+          date_start: '2005-01-01'
+          date_end: '2006-01-01'
+          description: Design and development of OSKER (Open SCADA Kernel) for real time event processing
     design:
       columns: '2'
   - block: collection
