@@ -31,7 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Security and Privacy
   - Authentication and Identity Management
-  - Networks
+  - Network Security
 
 # Education to show in About widget
 education:
