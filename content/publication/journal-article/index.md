@@ -22,20 +22,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Internet of Things Journal"
 publication_short: ""
 
-abstract: —This article deals with providing privacy-preserving
-access control in Internet of Things (IoT) systems. Here, a
-user/IoT device requests access to services provided by other
-IoT devices and multiple requests are combined to a requestspecific service chain. An anonymous delegated credential-based
-system architecture is proposed, where the requester’s identity
-is not exposed to the services. The article presents the proposed
-architecture’s various components including the security aspects.
-Various options for implementing the architecture on resourcefull and resource-constrained services are presented. A prototype
-of the proposed architecture is then implemented using Linuxbased containers to emulate the services. Two representative
-systems, namely, a small-scale home automation system using
-a short service chain and a large-scale industrial automation
-system using a long service chain are considered. Timing measurements from the implementation are presented to demonstrate
-that the architecture is feasible and can be adapted for practical
-use in large-scale IoT systems.
+abstract: —This article deals with providing privacy-preserving access control in Internet of Things (IoT) systems. Here, a user/IoT device requests access to services  rovided by other  IoT devices and multiple requests are combined to a requestspecific service chain. An anonymous delegated credential-based system architecture is proposed,  here the requester’s identity is not exposed to the services. The article presents the proposed architecture’s various components including the security aspects. Various  options for implementing the architecture on resourcefull and resource-constrained services are presented. A prototype of the proposed architecture is then implemented using Linuxbased containers to emulate the services. Two representative systems, namely, a small-scale home automation system using a short service chain and a large-scale  industrial automation system using a long service chain are considered. Timing measurements from the implementation are presented to demonstrate that the architecture is feasible and can be adapted for practical use in large-scale IoT systems.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
