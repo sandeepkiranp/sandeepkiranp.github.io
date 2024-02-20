@@ -85,7 +85,7 @@ sections:
           description: Design and development of OSKER (Open SCADA Kernel) for real time event processing
     design:
       columns: '2'
-  - block: Publications
+  - block: collection
     id: Publications
     content:
       title: Publications
