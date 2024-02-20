@@ -25,7 +25,7 @@ organizations:
     url: https://cs.stonybrook.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I like building secure systems using cryptographic protocols to solve real-world problems. My current research involves building practical plausibly deniable systems that are truly private and censorship-resilient.
 
 # Interests to show in About widget
 interests:
