@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://users.cs.fiu.edu/~carbunar/invisiline.pdf'
 url_code: 'https://www.computer.org/csdl/proceedings-article/sp/2024/313000a018/1RjE9Voxxkc'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
