@@ -1,7 +1,17 @@
-@inproceedings{example1,
-  title={INVISILINE: Invisible Plausibly-Deniable Storage},
-  author={SK Pinjala, B Carbunar, A Chakraborti, R Sion},
-  booktitle={IEEE Symposium on Security and Privacy},
-  year={2024},
-  publisher = {IEEE}
+@inproceedings{10.1145/3779208.3807496,
+author = {Suciu, Darius and Pinjala, Sandeep Kiran and Sun, Bin and Sion, Radu},
+title = {Overseer: Enforcing fine-grained memory access control across execution environments},
+year = {2026},
+isbn = {9798400723568},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3779208.3807496},
+doi = {10.1145/3779208.3807496},
+abstract = {TrustZone enables Rich Execution Environments (REEs) and Trusted Execution Environments (TEEs) to share physical memory by building virtual address spaces without knowing each other's mapping. While TEE hardware protection guarantees that the REE (“Normal World”) is restricted to accessing non-secure memory exclusively, the Secure OS and Trusted Applications (TAs) operating within the TEE (“Secure World”) can map physical memory belonging to REE OS and applications. As a result, vulnerabilities within TEE code, in conjunction with the inherent semantic gap between the REE and TEE can be leveraged by malicious actors to completely bypass REE security policies and leak or compromise REE-sensitive data or code. Our comprehensive analysis of TAs from commercial TrustZone devices and associated CVEs in the past decade has revealed numerous REE and TEE physical memory access vulnerabilities across multiple vendors. To mitigate the security impact of this critical semantic gap, we introduce Overseer, a secure monitor mechanism that prevents unauthorized physical memory mappings by TEEs, one of the important enablers of compromise. Overseer further enables the Secure OS and the TAs running inside the TEE to regulate the invocation of Secure Monitor Calls (SMCs) and System Calls. Overseer's performance overhead is under 2\% on average. A detailed CVE analysis shows that Overseer can mitigate the attack surface of over 53 TA vulnerabilities.},
+booktitle = {Proceedings of the ACM Asia Conference on Computer and Communications Security},
+pages = {743–758},
+numpages = {16},
+keywords = {Hardware Security, Access Control, ARM TrustZone},
+location = {Bangalore, India},
+series = {ASIA CCS '26}
 }
