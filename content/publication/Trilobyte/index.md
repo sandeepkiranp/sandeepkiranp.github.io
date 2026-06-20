@@ -46,8 +46,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3779208.3807496'
-url_code: 'https://github.com/sandeepkiranp/overseer'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3714393.3726489'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
