@@ -41,10 +41,8 @@ education:
       year: 2022 - present
     - course: MS in Computer Science
       institution: Indian Institute of Technology Madras
-      year: 2020
     - course: B.Tech in Electronics and Communication Engineering
       institution: Jawaharlal Nehru Technological University
-      year: 2002
 
 
 # Social/Academic Networking
