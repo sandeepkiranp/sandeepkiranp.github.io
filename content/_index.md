@@ -82,14 +82,6 @@ sections:
           date_start: '2006-01-01'
           date_end: '2013-01-01'
           description: Engineering lead for Teradata’s Gateway and Security (GTW-TDGSS) group
-        - title: Software Engineer
-          company: CMC-Ltd
-          #company_url: ''
-          #company_logo: org-x
-          location: Hyderabad, India
-          date_start: '2005-01-01'
-          date_end: '2006-01-01'
-          description: Design and development of OSKER (Open SCADA Kernel) for real time event processing
     design:
       columns: '2'
   - block: collection
