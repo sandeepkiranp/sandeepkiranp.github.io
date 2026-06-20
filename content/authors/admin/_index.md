@@ -73,5 +73,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a PhD student  in the CS department at Stony Brook University, where I am a member of the Network Security and Applied Cryptography Lab advised by [Prof. Radu Sion](https://zxr.io/). I like building secure systems using cryptographic protocols to solve real-world problems. My current research involves building practical plausibly deniable systems that are truly private and censorship-resilient. I am also investigating the impact of ARM Trustzone on embedded applications.
+I am currently a PhD student  in the CS department at Stony Brook University, where I am a member of the Network Security and Applied Cryptography Lab advised by [Prof. Radu Sion](https://zxr.io/). I like building secure systems using cryptographic protocols to solve real-world problems. My current research involves building practical plausibly deniable systems that are truly private and censorship-resilient.
 {style="text-align: justify;"}
