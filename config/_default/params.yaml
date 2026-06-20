@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Personal website of Sandeep Kiran Pinjala, PhD candidate in Computer Science at Stony Brook University, researching security, privacy, and cryptographic protocols.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
