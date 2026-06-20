@@ -54,6 +54,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Security Research Intern
+          company: Samsung Research America
+          #company_url: ''
+          #company_logo: org-gc
+          location: Mountainview, California
+          date_start: '2025-05-27'
+          date_end: '2025-08-22'
+          description: |2-
+              * Automatic detection of Malware on Android phones
         - title: Senior Technical Specialist
           company: HCL Technologies
           #company_url: ''
@@ -62,8 +71,6 @@ sections:
           date_start: '2013-01-01'
           date_end: '2021-01-01'
           description: |2-
-              Responsibilities include:
-
               * Technical architect and Product Owner
               * Design and implementation of features in Cisco's security products
               * POC for critical customer issues
